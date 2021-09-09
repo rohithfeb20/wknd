@@ -10,5 +10,6 @@
 	<modules>
         <module>wknd</module> 
 	<module>dispatcher</module> 
+	<module>wknd-events</module>
    </modules>
 </project>
